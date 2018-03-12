@@ -3,5 +3,6 @@ $(document).ready(function(){
      $(".dropdown-button").dropdown();
      $('#modal1').modal();
      $('#modal2').modal();
+     $('#modal3').modal();
 
    });
